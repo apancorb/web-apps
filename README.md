@@ -2,17 +2,17 @@
 
 ### Spotify Clone
 
-link: 
+link: https://spotify-clone-apancorb.web.app
 
-stack:
+stack: React.js and Firebase
 
 what's in it?
 - User Authentication
 - Spotify API
 - Responsive Design 
 - Material UI
-- React Context API (Like REDUX)
-- React Hooks Funnctional (Hooks, State)
+- React Context API 
+- React Hooks 
 
 
 ### Netflix Clone
